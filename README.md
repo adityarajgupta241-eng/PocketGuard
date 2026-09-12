@@ -37,7 +37,7 @@ flutter run
 
 Pull to refresh or tap **Sync** to call `GET http://<LOCAL_IP>:8000/api/expenses`.
 ## 👥 Team
-* **Faiz Qazi** (@faizqazi991-cyber)
+* **qazi mohd faiz hussain** (@faizqazi991-cyber)
 * **Rohan Khemka** (@ROHANKHEMKA1403)
 * **Ryan** (@Ryan302007)
 * **Aditya Raj Gupta** (@adityarajgupta241-eng)
